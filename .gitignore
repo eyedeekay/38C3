@@ -1,1 +1,2 @@
-*.lock*
+*.*lock*
+.~lock.CCC-Presentation.odp#
